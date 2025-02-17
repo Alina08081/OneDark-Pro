@@ -1,0 +1,35 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+       <title>Billie Elish- Сүйікті анши</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Billie Elish</h1>
+    </header>
+
+    <nav class="sidebar">
+        <ul>
+            <li><a href="index.html">Басты бет</a></li>
+            <li><a href="members.html">Мүшелері</a></li>
+            <li><a href="albums.html">Альбомдары</a></li>
+        </ul>
+    </nav>
+
+    <main class="content">
+        <h2>Billie Elish</h2>
+        <p>Billie Elish Билли Айлиш Пайрат Бэрд О’Коннелл (ағылш. Billie Eilish Pirate Baird O'Connell; 2001 жылы 18 желтоқсан) — америкалық әнші және ән жазушы. 2016 жылы SoundCloud-та "Ocean Eyes" дебюттік синглін жариялау арқасында танымалдылыққа ие болды. 2019 жылы оның дебюттік альбомы When We All Fall Asleep, Where Do We Go? америкалық (Billboard 200) және британдық (UK Albums Chart) хит-парадтарында үстемдік етті, ал "Bad Guy" синглі Billboard Hot 100 (АҚШ) - да бірінші орынға шықты<p>
+       <a href="https://kk.wikipedia.org/wiki/Black_Pink" target="_blank">Толығырақ оқыңыз</a></p>
+<img src="blackpink.jpg" alt="Blackpink тобы">
+    </main>
+
+    <footer>
+        <p>© 2025 Billie Elish Fan Page. Барлық құқықтар қорғалған.</p>
+        <p><a href=https://www.youtube.com/channel/UCiGm_E4ZwYSHV3bcW1pnSeQ>YouTube каналы </a></p>
+
+    </footer>
+
+</body>
+</html>
